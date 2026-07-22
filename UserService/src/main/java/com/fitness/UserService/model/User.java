@@ -28,4 +28,3 @@ public class User {
     private LocalDateTime updatedAt;
 
 }
-//53 min
